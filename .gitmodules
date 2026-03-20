@@ -1,0 +1,3 @@
+[submodule "img2img-turbo"]
+	path = img2img-turbo
+	url = https://github.com/GaParmar/img2img-turbo.git
