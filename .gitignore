@@ -6,3 +6,4 @@ checkpoints/
 *.egg-info/
 .DS_Store
 .env
+data/
