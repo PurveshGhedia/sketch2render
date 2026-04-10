@@ -34,7 +34,7 @@ def load_model():
 
     model = Pix2Pix_Turbo(
         pretrained_name="stabilityai/sd-turbo",
-        pretrained_path="checkpoints/New/model_5001.pkl"
+        pretrained_path="checkpoints/New/model_10001.pkl"
     )
 
     # THE MEMORY BINDING FIX: Split the cast and the move!

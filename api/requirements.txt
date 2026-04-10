@@ -1,6 +1,12 @@
 fastapi
 uvicorn
 pydantic
-pillow
-numpy
 torch
+torchvision
+transformers
+diffusers
+peft
+tqdm
+requests
+Pillow
+numpy
